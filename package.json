@@ -1,5 +1,5 @@
 {
-  "name": "fox-js",
+  "name": "fox",
   "version": "0.1.0",
   "description": "Some functions",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "node",
     "functions"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@phocks" },
   "author": "phocks",
   "license": "ISC",
   "bugs": {
